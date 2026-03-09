@@ -71,3 +71,9 @@ _Note: Use `npm run dev` if the project is configured with Vite._
 - `src/core/`: Contains the logic for the game engine, including
   `Entity.js`, `Ghost.js`, and `Collision.js`.
 - `src/assets/`: Static assets and global styles.
+
+## Images
+
+<p align="center">
+  <img src="/src/images/gameplay.png" width="500" alt="gameplay" style="display: block;">
+</p>
