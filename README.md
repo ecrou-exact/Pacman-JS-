@@ -1,6 +1,6 @@
 # Pac-Man Vue.js Project
 
-<p align="center" style="background-color: transparent;">
+<p align="center">
   <img src="/src/images/logo_pacman.png" width="300" alt="logo" style="display: block;">
 </p>
 This project is a modern implementation of the classic Pac-Man arcade
