@@ -1,7 +1,7 @@
 # Pac-Man Vue.js Project
 
 <p align="center">
-  <img src="/src/images/logo_pacman.png" width="300" alt="logo" style="display: block;">
+  <img src="/src/images/logo.png" width="300" alt="logo" style="display: block;">
 </p>
 This project is a modern implementation of the classic Pac-Man arcade
 game built using Vue.js and HTML5 Canvas. It features an intelligent
